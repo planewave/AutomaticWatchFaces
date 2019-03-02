@@ -507,14 +507,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				INFOPLIST_FILE = AutoWatchFaces/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
@@ -528,14 +528,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				INFOPLIST_FILE = AutoWatchFaces/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
@@ -549,14 +549,14 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				INFOPLIST_FILE = "WatchFace Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
@@ -573,14 +573,14 @@
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				INFOPLIST_FILE = "WatchFace Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = watchos;
@@ -597,10 +597,10 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				IBSC_MODULE = WatchFace_Extension;
 				INFOPLIST_FILE = WatchFace/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -616,10 +616,10 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = B36TV8BA3C;
+				DEVELOPMENT_TEAM = 8NRDNYQL37;
 				IBSC_MODULE = WatchFace_Extension;
 				INFOPLIST_FILE = WatchFace/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = SylvainGuillier.AutoWatchFaces.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = xiao.AutoWatchFaces.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
